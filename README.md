@@ -14,6 +14,6 @@
 git clone https://github.com/hardhackerlabs/theme-sublime.git
 ```
 
-Install theme by Open the Sublime Text, Preferences -> Browse Packages, Copy the Hardhacker.sublime-color-scheme to folder.
+Install theme by Open the Sublime Text, `Preferences` -> `Browse Packages`, Copy the `Hardhacker.sublime-color-scheme` to folder.
 
-Go to Preferences -> Color Scheme -> User and select the Hardhacker Color Scheme to Activate it.
+Go to `Preferences` -> `Color Scheme` -> `User` and select `Hardhacker` to Activate it.
