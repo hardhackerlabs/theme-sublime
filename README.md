@@ -3,11 +3,17 @@
 </p>
 
 <h1 align="center">
-  HardHacker Theme for Foobar
+  HardHacker Theme for Sublime Text
 </h1>
 
 ![screenshot](screenshot.png)
 
-## Install
+## Install using Git
 
-* Install steps here
+```shell
+git clone https://github.com/hardhackerlabs/theme-sublime.git
+```
+
+Install theme by Open the Sublime Text, Preferences -> Browse Packages, Copy the Hardhacker.sublime-color-scheme to folder.
+
+Go to Preferences -> Color Scheme -> User and select the Hardhacker Color Scheme to Activate it.
